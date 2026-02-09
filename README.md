@@ -1,4 +1,4 @@
-![Fajar Permadi Banner](https://github.com/fajarpermadi-portofolio/fajarpermadi-portofolio/blob/bde6115a4adafd2549822a4c6fef8a492d215714/assets/Fajar%20Permadi%20Banner.png))
+![Fajar Permadi Banner](https://github.com/fajarpermadi-portofolio/fajarpermadi-portofolio/blob/bde6115a4adafd2549822a4c6fef8a492d215714/assets/Fajar%20Permadi%20Banner.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ahmad Fajar Permadi</h2>
 
