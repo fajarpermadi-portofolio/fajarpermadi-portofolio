@@ -53,9 +53,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://fajarpermadi.vercel.app/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ahmad-fajar-permadi-a54758270/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ahmadfajarpermadi@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/fjarpermadi/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/telo.godok.3114935/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://fajarpermadi.vercel.app/"><img src="https://img.shields.io/badge/-fajarpermadi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmad-fajar-permadi-a54758270/"><img src="https://img.shields.io/badge/-Fajar%20Permadi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ahmadfajarpermadi@gmail.com"><img src="https://img.shields.io/badge/-ahmadfajarpermadi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/fjarpermadi/"><img src="https://img.shields.io/badge/-@fjarpermadi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/telo.godok.3114935/"><img src="https://img.shields.io/badge/-@fajarpermadi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
